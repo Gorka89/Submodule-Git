@@ -1,4 +1,6 @@
 # Submodule-Git
 This repo is a submodule to added for a bigger project
 
-h4. Trying Git submodules
+- Trying Git submodules
+- git submodule add GIT_REPO_ROUTE.git
+- You can 
